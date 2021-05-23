@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "1016913419682",
+    "firebase_url": "https://quicket-app-default-rtdb.firebaseio.com",
+    "project_id": "quicket-app",
+    "storage_bucket": "quicket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016913419682:android:2d8c09eebcdd27bc0ae6fb",
+        "android_client_info": {
+          "package_name": "com.example.conductor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016913419682-jaicmqt3mch7kp5ln1ad4akgcnfleqh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conductor_app",
+            "certificate_hash": "7e13f3ac1605477c563366234bc717538f419c10"
+          }
+        },
+        {
+          "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOq_11Uf5cnRcXm6dL4kHyOKeg-zBs50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016913419682:android:a0e149a16f7ba8670ae6fb",
+        "android_client_info": {
+          "package_name": "com.ganeshlohar.quicket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOq_11Uf5cnRcXm6dL4kHyOKeg-zBs50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016913419682:android:c86781bbcf9f428c0ae6fb",
+        "android_client_info": {
+          "package_name": "quicket.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016913419682-409jdvq1dpvbb5ugqdp8apthopjiao31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quicket.in",
+            "certificate_hash": "72ebbfd841fb6d54d300dfb73b940595678b6cee"
+          }
+        },
+        {
+          "client_id": "1016913419682-5th1ibh484foorumktfmcmvubf5eokpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quicket.in",
+            "certificate_hash": "da02b74599262d2ab0f8f7d4659c40da98e4f40c"
+          }
+        },
+        {
+          "client_id": "1016913419682-8tg1glam8inghrqor7bvmqvfgpjor7pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quicket.in",
+            "certificate_hash": "8934b5e15482710bf4feab12ab0984cc5fd36a6d"
+          }
+        },
+        {
+          "client_id": "1016913419682-s2elvr56g2j47bumishuvm792nd5g404.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quicket.in",
+            "certificate_hash": "caad67fe772440cc4782e8af78fc1d2aac283abd"
+          }
+        },
+        {
+          "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOq_11Uf5cnRcXm6dL4kHyOKeg-zBs50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016913419682-6sfb4lpv3chpl8ejime3uiq1nm7gpthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
